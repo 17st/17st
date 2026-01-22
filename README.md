@@ -76,20 +76,10 @@ I continuously work on improving my analytical skills by exploring new tools and
 </p>
 
 ## 🎓 Education
-<p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.E.%20Computer%20Engineering-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Institute-IET%20DAVV%20Indore-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Duration-2020--2024-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CGPA-6.84-success?style=for-the-badge" />
-</p>
+**B.E. in Computer Engineering**  
+Institute of Engineering and Technology, DAVV, Indore  
+2020 – 2024 | CGPA: 6.84
 
 ## 📜 Certifications
-<p align="center">
-  <img src="https://img.shields.io/badge/Deloitte%20Australia%20Data%20Analytics-Forage-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-Mar%202025-success?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Intermediate-HackerRank-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-Apr%202025-success?style=for-the-badge" />
-</p>
+- Deloitte Australia Data Analytics Job Simulation – Forage (Mar 2025)  
+- SQL (Intermediate) – HackerRank (Apr 2025)
