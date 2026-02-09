@@ -20,12 +20,8 @@ My focus is on building practical dashboards using Excel, Tableau, and Power BI,
 I continuously work on improving my analytical skills by exploring new tools and techniques. I find the most satisfaction in discovering insights that transform complex data into simple, actionable information.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Projects]
-- 🔹 **Car Sales Dashboard (Tableau)**  
-  👉 https://github.com/17st/Car-Sales
-
-- 🔹 **Coffee Shop Sales Dashboard (Excel)**  
-  👉 https://github.com/17st/Coffee-Shop-Sales
+### [🏆 Check Out My Full Portfolio Website]
+  👉 17st.github.io/
 
 ## 🔭 What I'm Currently Working On 
 
