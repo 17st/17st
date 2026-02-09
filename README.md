@@ -21,7 +21,7 @@ I continuously work on improving my analytical skills by exploring new tools and
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website]
-  👉 17st.github.io/
+  👉 [17st.github.io/](https://17st.github.io/)
 
 ## 🔭 What I'm Currently Working On 
 
